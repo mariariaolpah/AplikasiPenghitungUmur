@@ -24,5 +24,5 @@ dalam aplikasi ini kita dapat memilih tanggal lahir, maka aplikasi akan menampil
 
 ## Demo
 
-https://github.com/mariariaolpah/AplikasiPenghitungUmur/blob/main/img.gif
+![App Screenshot](https://github.com/mariariaolpah/AplikasiPenghitungUmur/blob/main/img.gif)
 
